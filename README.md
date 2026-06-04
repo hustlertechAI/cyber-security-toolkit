@@ -29,3 +29,14 @@ This project is designed to help beginners understand practical cyber security t
 ## Author
 
 Hustler Tech AI
+## Implemented Features
+
+- Password Strength Checker
+- Password Generator
+- SHA-256 Hash Generator
+
+## In Development
+
+- Port Scanner
+- IP Reputation Checker
+- Basic Vulnerability Checklist
